@@ -2,7 +2,7 @@
 #### I am a Programmer - Coder - Developer
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Laravel / JS / HTML
+Skills: Laravel / JS / HTML/CSS/PHP/VUE/Inertia JS/Tailwind CSS/Bootstrap/jQuery
 
 - 🔭 I have worked on Laravel 
 - 🌱 I’m currently learning Competitive Programming, JavaScript(ES6), Mathematics, VueJS
@@ -24,3 +24,5 @@ Skills: Laravel / JS / HTML
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-Nobir-Hasan)  
 
 ![Profile views](https://gpvc.arturio.dev/Md-Nobir-Hasan)  
+
+My Website link: https://www.nobir-hasan.com
