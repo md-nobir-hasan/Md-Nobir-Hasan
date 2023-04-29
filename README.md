@@ -6,7 +6,7 @@ Skills: Laravel / JS / HTML/CSS/PHP/VUE/Inertia JS/Tailwind CSS/Bootstrap/jQuery
 
 - 🔭 I have worked on Laravel 
 - 🌱 I’m currently learning Competitive Programming, JavaScript(ES6), Mathematics, VueJS
-- 📫 How to reach me: nobir.wd@gmail.com 
+- 📫 How to reach me: nobir.wd@gmail.com https://www.nobir-hasan.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Nobir-Hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Md-Nobir-Hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-nobir-hasan/)  
