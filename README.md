@@ -33,38 +33,38 @@ I'm a passionate **Full Stack Software Engineer** from **Bangladesh**, specializ
 ## 🌟 Featured Projects
 
 ### 🚀 [InnovativeSkillsBD.com](https://innovativeskillsbd.com)  [![GitHub](https://img.shields.io/badge/🔗%20GitHub-181717?style=flat&logo=github)](https://github.com/Innovative-Skills-Ltd/innovativeskills-bd) (private)
-Online education and skill-building SaaS platform — Laravel, Livewire, Tailwind CSS, MySQL, CI/CD
+Online education and skill-building SaaS platform — PHP, Laravel, Livewire, Javascript, Bootstrap, Tailwind CSS, MySQL, CI/CD
 
 ### 🛒 [LappyValley.com](https://lappyvalley.com) [![GitHub](https://img.shields.io/badge/🔗%20GitHub-181717?style=flat&logo=github)](https://github.com/md-nobir-hasan/Lappy-Valley)
-E-commerce platform for gadgets and laptops — Laravel, Livewire, Alpine.js, Tailwind CSS
+E-commerce platform for gadgets and laptops — Laravel, Livewire, Alpine.js, Tailwind CSS, MySQL, CI/CD
 
 ### 🏛️ [Easy UP Seba](https://github.com/md-nobir-hasan/easy-up-seba) [![GitHub](https://img.shields.io/badge/🔗%20GitHub-181717?style=flat&logo=github)](https://github.com/md-nobir-hasan/easy-up-seba)
-Union Parishad citizen service platform — Laravel, Vue.js, Inertia.js, Tailwind
+Union Parishad citizen service platform — Laravel, Vue.js, Inertia.js, Tailwind CSS, MySQL, CI/CD
 
 ### 🧩 [Laravel Mini Wizard](https://github.com/md-nobir-hasan/laravel-mini-wizard) [![GitHub](https://img.shields.io/badge/🔗%20GitHub-181717?style=flat&logo=github)](https://github.com/md-nobir-hasan/laravel-mini-wizard)
 Custom Laravel package for multi-step form wizards — clean, modular, and highly reusable
 
 ### 🧠 [Flextemp](https://personalitytest.innovativeskillsbd.com/) [![GitHub](https://img.shields.io/badge/🔗%20GitHub-181717?style=flat&logo=github)](https://github.com/md-nobir-hasan/fastapi-personality-test) (private)
-AI-based personality testing SaaS tool — FastAPI backend, Vue frontend, Haystack AI, GPT integration, Swagger UI
+AI-based personality testing SaaS tool — Python, FastAPI, Javascript, jQuery, Haystack AI, GPT integration, Swagger UI, SQL Lite 3, CI/CD
 
 ### 📊 [ACCP](https://accp.mibpromotions.com/) [![GitHub](https://img.shields.io/badge/🔗%20GitHub-181717?style=flat&logo=github)](https://github.com/Innovative-Skills-Ltd/Accp-Backend) (private)
-Academic scheduling and content planning system — Python, Django, DRF, Swagger UI
+Academic scheduling and content planning system — Python, Django, DRF, Swagger UI, CI/CD
 
 ### ✅ [Signorchoice](https://signorchoice.com/) [![GitHub](https://img.shields.io/badge/🔗%20GitHub-181717?style=flat&logo=github)](https://github.com/md-nobir-hasan/signorchoice) (private)
-Career matching system based on personality — Laravel, Vue, Inertia.js, personality algorithm
+Career matching system based on personality — PHP, Laravel, Javascript, Alpine.js, Tailwind CSS, MySQL, CI/CD
 
-### 🧾 Invoice Software (Private) [![GitHub](https://img.shields.io/badge/🔗%20GitHub-181717?style=flat&logo=github)](https://github.com/md-nobir-hasan/invoice-software)
-Billing and invoice generation SaaS — Laravel, Livewire, FilamentPHP, MySQL
+### 🧾 Invoice Software [![GitHub](https://img.shields.io/badge/🔗%20GitHub-181717?style=flat&logo=github)](https://github.com/md-nobir-hasan/invoice-software) (Private)
+Billing and invoice generation SaaS — PHP, Laravel, Bootstrap, Javascript, Jquery, MySQL, CI/CD
 
 ### 🌐 [MSN World](https://msnworld.net/) [![GitHub](https://img.shields.io/badge/🔗%20GitHub-181717?style=flat&logo=github)](https://github.com/md-nobir-hasan/msnworld.net)
-Telemedicine and vet appointment system — Laravel, Livewire, Tailwind
+Telemedicine and vet appointment system — PHP, Laravel, PHP Filament, Javascript, Alpine.js, Tailwind CSs, MySQL, CI/CD
 
 ### 📁 [Bikrihoy](https://bikrihoy.com/) [![GitHub](https://img.shields.io/badge/🔗%20GitHub-181717?style=flat&logo=github)](https://github.com/md-nobir-hasan/bikrihoy.com)
-Online classified ad system — Laravel, jQuery, Bootstrap, MySQL
+Online classified ad system — PHP, Laravel, jQuery, Tailwind CSS, MySQL, CI/CD
 
 
 ### 📁 [BM Admin](https://ads.e-businessclinic.com/) [![GitHub](https://img.shields.io/badge/🔗%20GitHub-181717?style=flat&logo=github)](https://github.com/md-nobir-hasan/bm-admin)
-Online classified ad system — Laravel, jQuery, Bootstrap, MySQL
+Online classified ad system — PHP, Laravel, jQuery, Bootstrap, MySQL, CI/CD
 
 ---
 
