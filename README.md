@@ -9,15 +9,7 @@ I'm a passionate **Full Stack Software Engineer** from **Bangladesh**, specializ
 ## 💻 Tech Stack
 
 **Backend:**  
-![PHP](https://img.shields.io/badge/-PHP-777?style=flat&logo=php)  
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)  
-![Django REST Framework](https://img.shields.io/badge/-DRF-ff1709?style=flat&logo=django)  
-![PHP Filament](https://img.shields.io/badge/-FilamentPHP-4e5d94?style=flat)  
-![Livewire](https://img.shields.io/badge/-Livewire-blueviolet?style=flat)  
-![Inertia.js](https://img.shields.io/badge/-Inertia.js-3c3c3c?style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) ![Django REST Framework](https://img.shields.io/badge/-DRF-ff1709?style=flat&logo=django) ![PHP Filament](https://img.shields.io/badge/-FilamentPHP-4e5d94?style=flat) ![Livewire](https://img.shields.io/badge/-Livewire-blueviolet?style=flat) ![Inertia.js](https://img.shields.io/badge/-Inertia.js-3c3c3c?style=flat)
 
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
