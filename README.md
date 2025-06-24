@@ -70,12 +70,11 @@ Online classified ad system — PHP, Laravel, jQuery, Bootstrap, MySQL, CI/CD
 
 ---
 
----
 
-### 🔍 Looking for more projects?
+🔎 **Explore More Projects & Case Studies**  
+I've built several client-specific and private applications beyond GitHub.  
 
-Many of my client-based and offline works are not listed here.  
-👉 [Visit my full portfolio](https://nobir-hasan.vercel.app) to explore detailed case studies & real-world SaaS solutions.
+👉 **Portfolio:** [nobir-hasan.vercel.app](https://nobir-hasan.vercel.app)
 
 ---
 
