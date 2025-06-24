@@ -44,22 +44,26 @@ Union Parishad citizen service platform — Laravel, Vue.js, Inertia.js, Tailwin
 ### 🧩 [Laravel Mini Wizard](https://github.com/md-nobir-hasan/laravel-mini-wizard)
 Custom Laravel package for multi-step form wizards — clean, modular, and highly reusable
 
-### 🧠 Flextemp
-AI-based personality testing SaaS tool — FastAPI backend, Vue frontend, Haystack AI
+### 🧠 [Flextemp](https://personalitytest.innovativeskillsbd.com/)
+AI-based personality testing SaaS tool — FastAPI backend, Vue frontend, Haystack AI, GPT integration, Swagger UI
 
-### 📊 ACCP – Academic & Course Planning Panel
-Academic scheduling and content planning system — Laravel + Vue + Tailwind
+### 📊 (ACCP)(https://accp.mibpromotions.com/)
+Academic scheduling and content planning system — Python, Django, DRF, Swagger UI
 
-### ✅ Signorchoice
+### ✅ [Signorchoice](https://signorchoice.com/)
 Career matching system based on personality — Laravel, Vue, Inertia.js, personality algorithm
 
 ### 🧾 Invoice Software (Private)
 Billing and invoice generation SaaS — Laravel, Livewire, FilamentPHP, MySQL
 
-### 🌐 BDdoctor24
+### 🌐 [MSN World](https://msnworld.net/)
 Telemedicine and vet appointment system — Laravel, Livewire, Tailwind
 
-### 📁 Bikrihoy
+### 📁 [Bikrihoy](https://bikrihoy.com/)
+Online classified ad system — Laravel, jQuery, Bootstrap, MySQL
+
+
+### 📁 [BM Admin](https://ads.e-businessclinic.com/)
 Online classified ad system — Laravel, jQuery, Bootstrap, MySQL
 
 ---
