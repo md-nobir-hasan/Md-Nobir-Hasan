@@ -75,11 +75,10 @@ A lightweight wizard form package for Laravel applications
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Nobir-Hasan&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Md-Nobir-Hasan)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-Nobir-Hasan)  
 
-![Profile views](https://gpvc.arturio.dev/Md-Nobir-Hasan)  
+![Profile views](https://nobir-hasan.vercel.app/)  
 
 My Website link: https://nobir-hasan.vercel.app/
 
