@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md. Nobir Hasan
 
-## 🚀 Full Stack Web Developer | Laravel Enthusiast | API Architect | SaaS Builder
+## 🚀 Full Stack Software Engineer | Laravel Enthusiast | API Architect | SaaS Builder
 
 I'm a passionate **Full Stack Software Engineer** from **Bangladesh**, specialized in building **scalable web applications**, **modern SaaS platforms**, and **API-first solutions**. With 4+ years of hands-on experience, I’ve worked across a range of technologies — from **Laravel & Livewire** to **Vue.js/Nuxt.js**, **FastAPI**, **Django**, and **AI integrations**.
 
