@@ -38,7 +38,7 @@ Online education and skill-building SaaS platform — Laravel, Livewire, Tailwin
 ### 🛒 [LappyValley.com](https://lappyvalley.com)
 E-commerce platform for gadgets and laptops — Laravel, Livewire, Alpine.js, Tailwind CSS
 
-### 🏛️ [Easy UP Seba](https://github.com/md-nobir-hasan/easy-up-seba)
+### 🏛️ [Easy UP Seba](https://github.com/md-nobir-hasan/easy-up-seba) [![GitHub](https://img.shields.io/badge/🔗%20GitHub-181717?style=flat&logo=github)](https://github.com/md-nobir-hasan/easy-up-seba)
 Union Parishad citizen service platform — Laravel, Vue.js, Inertia.js, Tailwind
 
 ### 🧩 [Laravel Mini Wizard](https://github.com/md-nobir-hasan/laravel-mini-wizard)
