@@ -66,6 +66,11 @@ Online classified ad system — PHP, Laravel, jQuery, Tailwind CSS, MySQL, CI/CD
 ### 📁 [BM Admin](https://ads.e-businessclinic.com/) [![GitHub](https://img.shields.io/badge/🔗%20GitHub-181717?style=flat&logo=github)](https://github.com/md-nobir-hasan/bm-admin)
 Online classified ad system — PHP, Laravel, jQuery, Bootstrap, MySQL, CI/CD
 
+
+✨ Curious about more of my work beyond GitHub?  
+Explore detailed case studies and client projects on my portfolio:  
+👉 [nobir-hasan.vercel.app](https://nobir-hasan.vercel.app)
+
 ---
 
 ## 📫 Let's Connect
