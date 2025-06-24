@@ -67,9 +67,15 @@ Online classified ad system — PHP, Laravel, jQuery, Tailwind CSS, MySQL, CI/CD
 Online classified ad system — PHP, Laravel, jQuery, Bootstrap, MySQL, CI/CD
 
 
-✨ Curious about more of my work beyond GitHub?  
-Explore detailed case studies and client projects on my portfolio:  
-👉 [nobir-hasan.vercel.app](https://nobir-hasan.vercel.app)
+
+---
+
+---
+
+### 🔍 Looking for more projects?
+
+Many of my client-based and offline works are not listed here.  
+👉 [Visit my full portfolio](https://nobir-hasan.vercel.app) to explore detailed case studies & real-world SaaS solutions.
 
 ---
 
