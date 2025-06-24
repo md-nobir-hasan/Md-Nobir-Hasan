@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Md. Nobir Hasan
 
-## 🚀 Full Stack Software Engineer | Laravel Enthusiast | API Architect | SaaS Builder
+## 🚀 Full Stack Software Engineer | Laravel/Django Enthusiast | API Architect | SaaS Builder
 
-I'm a passionate **Full Stack Software Engineer** from **Bangladesh**, specialized in building **scalable web applications**, **modern SaaS platforms**, and **API-first solutions**. With 4+ years of hands-on experience, I’ve worked across a range of technologies — from **Laravel & Livewire** to **Vue.js/Nuxt.js**, **FastAPI**, **Django**, and **AI integrations**.
+I'm a passionate **Full Stack Software Engineer** , specialized in building **scalable web applications**, **modern SaaS platforms**, and **API-first solutions**. With 4+ years of hands-on experience, I’ve worked across a range of technologies — from **PHP and Laravel** to **Vue.js/Nuxt.js**,**React.js/Next.js**, **FastAPI**, **Django/DRF**, and **AI integrations**.
 
 ---
 
@@ -20,12 +20,12 @@ I'm a passionate **Full Stack Software Engineer** from **Bangladesh**, specializ
 ---
 
 ## 🔥 What I Do
-
-- 🔧 Build full-stack SaaS apps with **Laravel + Vue/React**
+- ⚡ Build dynamic full-stack web applications using **Laravel**, **Django/DRF**, and **FastAPI**
+- 🚀 Develop and consume REST APIs with **Laravel**, **DRF**, and **FastAPI**
+- ⚡ Design modern frontend interfaces with **Vue.js/Nuxt.js**, **React.js/Next.js**, **Alpine.js**, **Bootstrap**, and **Tailwind CSS**
 - 🔗 Develop and consume **REST APIs** using **Laravel, FastAPI, Django REST Framework**
 - ⚙️ Integrate third-party APIs (SMS, Payment, AI, etc.)
 - 🧠 Work on **AI-enhanced applications** using **Haystack AI, RAG, Pydantic**
-- ⚡ Create dynamic frontend interfaces using **Vue, Livewire, Inertia, Alpine.js**
 - 🚀 Automate deployment pipelines and CI/CD workflows
 
 ---
