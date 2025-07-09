@@ -83,8 +83,8 @@ I've built several client-specific and private applications beyond GitHub.
 - ✉️ Email: **nobir.wd@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-nobir-hasan)  
 - 💻 [GitHub](https://github.com/md-nobir-hasan)  
-- 🌐 Portfolio: **Coming soon at [nobirhasan.dev](https://nobirhasan.dev)**  
-- 🐦 Facebook: [nobir.sau](https://www.facebook.com/nobir.sau)
+- 🌐 Portfolio: **[Website](https://nobir-hasan.vercel.app/)**  
+- 🐦 Facebook: [Profile](https://www.facebook.com/nobir.sau)
 
 ---
 
